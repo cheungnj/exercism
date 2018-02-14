@@ -2,8 +2,6 @@ import unittest
 
 from run_length_encoding import encode, decode
 
-from nose.plugins.attrib import attr
-
 
 # Tests adapted from `problem-specifications//canonical-data.json` @ v1.0.0
 
